@@ -1,0 +1,1 @@
+Create smart-contracts folder
